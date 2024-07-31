@@ -7,17 +7,19 @@ A person will be able to make a post with a photo upload, description, location,
 Rails version: 7.1.3.4
 Ruby version: ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x86_64-linux]
 
-rails g scaffold Post description:text location:string
+rails g scaffold Post description:text
 
 gems necessary:
 
 rspec for tests
 
-https://medium.com/@anaharris/how-to-add-image-upload-functionality-to-your-rails-app-9f7fc3f3d042
-
 active_storage for photos
 
+https://medium.com/@anaharris/how-to-add-image-upload-functionality-to-your-rails-app-9f7fc3f3d042
+
 rails active_storage:install
+
+rails g migration add_photo_to_posts photo:string
 
 devise for login functionality
 
@@ -27,7 +29,7 @@ rails g migration add_user_id_to_posts user_id:integer:index
 
 migration to add status to posts
 
-rails g migration add_status_to_posts status:string
+rails g migration add_status_to_posts status:integer
 
 set up enums with status options (default is available, then pending, and sold)
 
