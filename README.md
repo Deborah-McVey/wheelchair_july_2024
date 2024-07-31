@@ -4,6 +4,9 @@ If someone has a wheelchair they don't need anymore and want to offer it up to s
 
 A person will be able to make a post with a photo upload, description, location, and status (available, pending, sold). Other people can comment. The original publisher can also comment.
 
+Rails version: 7.1.3.4
+Ruby version: ruby 3.2.2 (2023-03-30 revision e51014f9c0) [x86_64-linux]
+
 rails g scaffold Post description:text location:string
 
 gems necessary:
