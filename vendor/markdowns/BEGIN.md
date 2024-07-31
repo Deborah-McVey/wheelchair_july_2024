@@ -1,6 +1,14 @@
 install rspec first
 
-rails g scaffold Post description:text location:string
+factory_bot and faker for testing
+
+most important for post is photo and description
+
+also need location (city, state) and status (available, pending, sold)
+
+easiest to start with description
+
+rails g scaffold Post description:text
 
 rails g migration add_status_to_posts status:string
 
