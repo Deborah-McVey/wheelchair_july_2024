@@ -2,6 +2,10 @@ install rspec first
 
 factory_bot and faker for testing
 
+setting up tests in gemfile, debugger, rspec, factory bot, faker
+
+rails g rspec:install
+
 most important for post is photo and description
 
 also need location (city, state) and status (available, pending, sold)
