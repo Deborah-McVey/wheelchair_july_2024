@@ -1,3 +1,8 @@
+body {
+  background: url('wheelchair640x962.jpg') no-repeat center;
+  background-size: cover;
+}
+
 nav {
   background: linear-gradient(
     to right,
