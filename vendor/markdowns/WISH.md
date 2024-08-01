@@ -9,3 +9,7 @@ want home page
 want page giving tips for making a good post - types of wheelchairs, and guide to measurements
 
 search by type of wheelchair, location (zip code) - gives nearest posts
+
+write tests
+
+Postman for routes and passwords

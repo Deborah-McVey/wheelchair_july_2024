@@ -3,6 +3,8 @@ https://medium.com/@anaharris/how-to-add-image-upload-functionality-to-your-rail
 
 https://guides.rubyonrails.org/v5.2.0/active_storage_overview.html
 
+https://guides.rubyonrails.org/active_storage_overview.html#transforming-images
+
 imagemagick, image_processing, active_storage, 
 https://www.nobledesktop.com/learn/ruby/product-images-with-active-storage
 
