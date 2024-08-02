@@ -13,10 +13,10 @@
 
   <div>
     <%= form.label :description, style: "display: block" %>
-    <%= form.text_area :description %>
+    <%= form.text_area :description, :required => true %>
   </div>
 
   <div>
-    <%= form.submit %>
+    <%= form.submit class:'btn btn-secondary' %>
   </div>
 <% end %>
