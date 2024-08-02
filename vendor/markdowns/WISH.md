@@ -13,3 +13,5 @@ search by type of wheelchair, location (zip code) - gives nearest posts
 write tests
 
 Postman for routes and passwords
+
+add footer

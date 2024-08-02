@@ -1,1 +1,3 @@
-todo: stylesheet for navbar and background on pages 
+todo: edit background photo
+
+add active storage and photo upload functionality
