@@ -15,3 +15,8 @@ https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 https://edgeguides.rubyonrails.org/security.html#custom-credentials
 
+https://www.sitepoint.com/community/t/why-is-my-background-not-covering-the-whole-page/337049/3
+
+https://bloggie.io/@kinopyo/7-practical-tips-for-activestorage-on-rails-5-2
+
+
